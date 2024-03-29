@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.de30671a.css",
+    "main.js": "/static/js/main.e95ea203.js",
+    "static/js/453.dd53e008.chunk.js": "/static/js/453.dd53e008.chunk.js",
+    "static/media/levitating-music-headphones-display-removebg-preview.png": "/static/media/levitating-music-headphones-display-removebg-preview.b79a605731659c34c843.png",
+    "index.html": "/index.html",
+    "main.de30671a.css.map": "/static/css/main.de30671a.css.map",
+    "main.e95ea203.js.map": "/static/js/main.e95ea203.js.map",
+    "453.dd53e008.chunk.js.map": "/static/js/453.dd53e008.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de30671a.css",
+    "static/js/main.e95ea203.js"
+  ]
+}
